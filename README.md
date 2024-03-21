@@ -1,1 +1,2 @@
 # Timmy_Personal_Blog
+這是我在課餘時間，利用課堂上所學結合BootStrap做出的個人履歷網站～
