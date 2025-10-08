@@ -8,7 +8,7 @@ Here you’ll find:
 - 🛠️ Project showcases (AI, NLP, RAG, multimodal systems)
 - 🏆 Award-winning research & real-world solutions
 - 📚 Learning notes, reflections, and career milestones
-- 📝 Resume, academic achievements, and recommendation letters
+- 📝 Resume, academic achievements
 
 > **Visit the site:** [1104030360.github.io/Timmy_Personal_Blog](https://1104030360.github.io/Timmy_Personal_Blog/)
 
@@ -29,3 +29,4 @@ Here you’ll find:
 ---
 
 Feel free to explore and connect!
+
