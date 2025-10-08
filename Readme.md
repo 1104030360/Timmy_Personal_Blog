@@ -14,19 +14,11 @@ Here you’ll find:
 
 ---
 
-## Highlights
-
-- **1st place** in class (NCU, Info Management, 2025)
-- U-Start Grant | MOEA Digital Innovation Silver | Best AI Awards
-- RAG, LLMs, multi-agent systems, Edge AI, NLP, CV
-- Driven by social impact, open sharing, and continuous learning
-
----
-
 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/timmyyt) ｜ [GitHub](https://github.com/1104030360) ｜ Email: 5961timtim@gmail.com
 
 ---
 
 Feel free to explore and connect!
+
 
