@@ -6,7 +6,7 @@ This is the personal blog and portfolio of **Lin Chun-Ting (Timmy)** – top gra
 Here you’ll find:
 
 - 🛠️ Project showcases (AI, NLP, RAG, multimodal systems)
-- 🏆 Award-winning research & real-world solutions
+- 🏆 Award-winning project & real-world solutions
 - 📚 Learning notes, reflections, and career milestones
 - 📝 Resume, academic achievements
 
@@ -20,5 +20,6 @@ Here you’ll find:
 ---
 
 Feel free to explore and connect!
+
 
 
